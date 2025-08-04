@@ -1,6 +1,9 @@
 # smart-lighting-and-laundry-alert-system
-An integrated home automation project that combines energy-efficient smart lighting with a laundry completion alert system. The system uses sensors, Raspberry Pi, and cloud platforms to create a seamless and user-friendly smart home experience.
+This project was originally developed as two separate individual projects. I designed and built the Intelligent Sensor Lighting System, which uses a motion sensor and ambient light sensor to automate room lighting based on occupancy and natural light levels.
 
+My classmate worked on the Laundry Done Alert System, which detects when a washing machine finishes a cycle and sends a notification. After completing our individual systems, we decided to integrate them into a unified smart home solution.
+
+In the final integrated system, my lighting setup also functions as a visual alert: when the laundry is finished, the room lights flicker to notify the user. This collaboration enhanced both projects by adding new functionality and improving user experience.
 PROJECT VIDEO LINK: https://udmercy0-my.sharepoint.com/:v:/g/personal/chenpe3_udmercy_edu/EfWldXh-9LBFjobxOBUc5TsBiALQZTliqOzVgUaG_zsMMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=B6ftnG
 
 How to Run the Code:
