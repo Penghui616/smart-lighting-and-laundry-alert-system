@@ -41,6 +41,7 @@ sudo apt update sudo apt install python3-pip python3-venv python3-dev i2c-tools 
 
 3. Create a virtual environment:
 python3 -m venv myenv source myenv/bin/activate pip install -r requirements.txt # if you have one
+<img width="440" height="451" alt="image" src="https://github.com/user-attachments/assets/ee5da87c-e38a-40cc-a53b-f0cd86bfff1f" />
 
 
 Cloud Integration:
