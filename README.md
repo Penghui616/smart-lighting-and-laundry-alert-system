@@ -1,5 +1,7 @@
 # smart-lighting-and-laundry-alert-system
 An integrated home automation project that combines energy-efficient smart lighting with a laundry completion alert system. The system uses sensors, Raspberry Pi, and cloud platforms to create a seamless and user-friendly smart home experience.
+VIDEO LINK: https://udmercy0-my.sharepoint.com/:v:/g/personal/chenpe3_udmercy_edu/EfWldXh-9LBFjobxOBUc5TsBiALQZTliqOzVgUaG_zsMMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=B6ftnG
+
 How to Run the Code:
 -----------------------
 1. source myenv/bin/activate
