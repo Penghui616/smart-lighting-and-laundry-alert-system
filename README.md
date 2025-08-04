@@ -1,9 +1,12 @@
 # smart-lighting-and-laundry-alert-system
-This project was originally developed as two separate individual projects. I designed and built the Intelligent Sensor Lighting System, which uses a motion sensor and ambient light sensor to automate room lighting based on occupancy and natural light levels.
+This project was originally developed as two separate individual projects. I designed and implemented the Intelligent Sensor Lighting System, which uses a motion sensor, ambient light sensor, and temperature sensor to automate lighting based on room occupancy, natural light conditions, and ambient temperature.
 
-My classmate worked on the Laundry Done Alert System, which detects when a washing machine finishes a cycle and sends a notification. After completing our individual systems, we decided to integrate them into a unified smart home solution.
+For example, the system can turn on different types of lights (e.g., warm or cool LEDs) depending on the current temperature, and it can activate alerts (such as a buzzer or flashing lights) in case of abnormal conditions.
 
-In the final integrated system, my lighting setup also functions as a visual alert: when the laundry is finished, the room lights flicker to notify the user. This collaboration enhanced both projects by adding new functionality and improving user experience.
+Meanwhile, my classmate developed the Laundry Done Alert System, which detects when the washing machine finishes and sends notifications. After both systems were completed, we integrated them into a single smart home solution.
+
+In the final version, the lighting system not only saves energy and improves convenience, but also provides visual notifications (such as flickering lights) when the laundry is done—creating a more interactive and efficient user experience.
+
 PROJECT VIDEO LINK: https://udmercy0-my.sharepoint.com/:v:/g/personal/chenpe3_udmercy_edu/EfWldXh-9LBFjobxOBUc5TsBiALQZTliqOzVgUaG_zsMMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=B6ftnG
 
 How to Run the Code:
